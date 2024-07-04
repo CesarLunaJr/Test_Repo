@@ -1,6 +1,9 @@
 # Test_Repo
 Test repo to experiment with branch creation and merging.
 
+Google Sheet Link: https://docs.google.com/document/d/16469xnpTtI6aJiyt3V6NG1XJGL2bvWcIsau8dFlH_3M/edit?usp=sharing
+
+
 **Project Requirements**
 
 Completed Analysis Uploaded to GitHub (20 points) 
